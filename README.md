@@ -1,41 +1,48 @@
-# Website
+> English | [中文](README_ZH.md)
+>
+# Kosmos Docs & Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repo contains the source code of [KubeNest website](https://kosmos-io.github.io/kubenest-website/) and all the docs for Kosmos.
+It's built by [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+- [KubeNest website](https://kosmos-io.github.io/kubenest-website)
+- [KubeNest docs](https://kosmos-io.github.io/kubenest-website/getting-started/introduction)
 
-```
-$ yarn
-```
+Welcome to join us, and you are more than appreciated to contribute!
 
-### Local Development
+## Add or Update Docs
 
-```
-$ yarn start
-```
+When you add or modify the docs, these two files(`docs/` and `i18n/zh-Hans/docusaurus-plugin-content-docs/current`) should be taken into consideration.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Run with Node.js
 
-### Build
+If you have the Node.js environment, you can run the website locally.
 
-```
-$ yarn build
-```
+- It is recommended to use version node v18.0.0+ and npm v8.6+
+- You can download [Node.js](https://nodejs.org/download/release/v18.0.0)
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+```shell
+# Clone the repo, or your own fork
+git clone https://github.com/<YOUR_GITHUB_USERNAME>/website.git
 
-### Deployment
+# build
+yarn
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+# Start the site
+yarn start
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Once the site is running locally, you can preview the site by visiting [http://localhost:3000/](http://localhost:3000/).
+
+## How to Submit Documentation to this repo
+
+The default documentation language for the project is English.
+
+- English documentation submission path: `./docs`
+- Chinese documentation submission path: `./i18n/zh-Hans/docusaurus-plugin-content-docs/current`
+
+Note: The directory structures for both Chinese and English documentation must be completely identical.
+
+## Send your pull request
+
+After all changes checked well, please [creating a pull request](https://help.github.com/en/articles/creating-a-pull-request) with [DCO](https://github.com/apps/dco).
