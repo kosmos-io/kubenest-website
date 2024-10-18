@@ -3,190 +3,190 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/kubenest-website/__docusaurus/debug',
+    component: ComponentCreator('/kubenest-website/__docusaurus/debug', '201'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/kubenest-website/__docusaurus/debug/config',
+    component: ComponentCreator('/kubenest-website/__docusaurus/debug/config', 'cbc'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/kubenest-website/__docusaurus/debug/content',
+    component: ComponentCreator('/kubenest-website/__docusaurus/debug/content', '4dc'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/kubenest-website/__docusaurus/debug/globalData',
+    component: ComponentCreator('/kubenest-website/__docusaurus/debug/globalData', '71b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/kubenest-website/__docusaurus/debug/metadata',
+    component: ComponentCreator('/kubenest-website/__docusaurus/debug/metadata', 'b30'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/kubenest-website/__docusaurus/debug/registry',
+    component: ComponentCreator('/kubenest-website/__docusaurus/debug/registry', 'a33'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/kubenest-website/__docusaurus/debug/routes',
+    component: ComponentCreator('/kubenest-website/__docusaurus/debug/routes', '4ca'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/kubenest-website/blog',
+    component: ComponentCreator('/kubenest-website/blog', '899'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/kubenest-website/blog/archive',
+    component: ComponentCreator('/kubenest-website/blog/archive', '709'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/kubenest-website/blog/authors',
+    component: ComponentCreator('/kubenest-website/blog/authors', '7c2'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/kubenest-website/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/kubenest-website/blog/authors/all-sebastien-lorber-articles', 'ac0'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/kubenest-website/blog/authors/yangshun',
+    component: ComponentCreator('/kubenest-website/blog/authors/yangshun', '5a1'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/kubenest-website/blog/first-blog-post',
+    component: ComponentCreator('/kubenest-website/blog/first-blog-post', '6d1'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/kubenest-website/blog/long-blog-post',
+    component: ComponentCreator('/kubenest-website/blog/long-blog-post', '602'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/kubenest-website/blog/mdx-blog-post',
+    component: ComponentCreator('/kubenest-website/blog/mdx-blog-post', '5bd'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/kubenest-website/blog/tags',
+    component: ComponentCreator('/kubenest-website/blog/tags', 'd36'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/kubenest-website/blog/tags/docusaurus',
+    component: ComponentCreator('/kubenest-website/blog/tags/docusaurus', 'db4'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
+    path: '/kubenest-website/blog/tags/facebook',
+    component: ComponentCreator('/kubenest-website/blog/tags/facebook', 'e1e'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
+    path: '/kubenest-website/blog/tags/hello',
+    component: ComponentCreator('/kubenest-website/blog/tags/hello', 'cca'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
+    path: '/kubenest-website/blog/tags/hola',
+    component: ComponentCreator('/kubenest-website/blog/tags/hola', 'a24'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/kubenest-website/blog/welcome',
+    component: ComponentCreator('/kubenest-website/blog/welcome', '0e8'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/kubenest-website/markdown-page',
+    component: ComponentCreator('/kubenest-website/markdown-page', 'f92'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/kubenest-website/docs',
+    component: ComponentCreator('/kubenest-website/docs', 'f14'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/kubenest-website/docs',
+        component: ComponentCreator('/kubenest-website/docs', 'fea'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/kubenest-website/docs',
+            component: ComponentCreator('/kubenest-website/docs', 'f61'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/kubenest-website/docs/category/tutorial---basics',
+                component: ComponentCreator('/kubenest-website/docs/category/tutorial---basics', '9f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/kubenest-website/docs/category/tutorial---extras',
+                component: ComponentCreator('/kubenest-website/docs/category/tutorial---extras', '4ef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/kubenest-website/docs/intro',
+                component: ComponentCreator('/kubenest-website/docs/intro', 'dfd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/kubenest-website/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-basics/congratulations', '1fe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/kubenest-website/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-basics/create-a-blog-post', '93b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/kubenest-website/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-basics/create-a-document', '655'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/kubenest-website/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-basics/create-a-page', '37a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/kubenest-website/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-basics/deploy-your-site', 'bf9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/kubenest-website/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-basics/markdown-features', 'a36'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/kubenest-website/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-extras/manage-docs-versions', 'd57'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/kubenest-website/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/kubenest-website/docs/tutorial-extras/translate-your-site', '629'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -197,8 +197,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/kubenest-website/',
+    component: ComponentCreator('/kubenest-website/', 'b71'),
     exact: true
   },
   {
