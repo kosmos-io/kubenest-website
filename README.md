@@ -1,8 +1,8 @@
 > English | [中文](README_ZH.md)
->
+
 # Kosmos Docs & Website
 
-This repo contains the source code of [KubeNest website](https://kosmos-io.github.io/kubenest-website/) and all the docs for Kosmos.
+This repo contains the source code of [KubeNest website](https://kosmos-io.github.io/kubenest-website/) and all the docs for KubeNest.
 It's built by [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 - [KubeNest website](https://kosmos-io.github.io/kubenest-website)

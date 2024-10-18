@@ -2,7 +2,7 @@
 
 # Kosmos 文档与网站
 
-这个仓库包含了[KubeNest 网站](https://kosmos-io.github.io/kubenest-website/)的源代码以及所有的 Kosmos 文档。
+这个仓库包含了[KubeNest 网站](https://kosmos-io.github.io/kubenest-website/)的源代码以及所有的 KubeNest 文档。
 它是由[Docusaurus](https://docusaurus.io/)构建的，一个现代的静态网站生成器。
 
 - [KubeNest 网站](https://kosmos-io.github.io/kubenest-website/)
