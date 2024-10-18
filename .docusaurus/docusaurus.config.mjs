@@ -4,22 +4,34 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "KubeNest",
+  "tagline": "A fully isolated kube-in-kube solution",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
-  "onBrokenLinks": "throw",
+  "url": "https://kosmos-io.github.io",
+  "baseUrl": "/kubenest-website/",
+  "organizationName": "kosmos",
+  "projectName": "kubenest-website",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
+  "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "zh-Hans"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      },
+      "zh-Hans": {
+        "label": "简体中文",
+        "direction": "ltr"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
@@ -52,9 +64,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "KubeNest",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "KubeNest Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -70,8 +82,20 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
+        },
+        {
+          "href": "https://kosmos-io.github.io/kubenest-website/quick-start",
+          "label": "Examples",
+          "position": "right"
+        },
+        {
+          "href": "https://github.com/kosmos-io/kubenest-website",
+          "className": "header-github-link",
+          "aria-label": "GitHub repository",
           "position": "right"
         }
       ],

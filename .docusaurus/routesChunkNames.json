@@ -1,316 +1,316 @@
 {
-  "/__docusaurus/debug-5ff": {
+  "/kubenest-website/__docusaurus/debug-201": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---kubenest-website-docusaurus-debugb-38-196"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
+  "/kubenest-website/__docusaurus/debug/config-cbc": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---kubenest-website-docusaurus-debugb-38-196"
     }
   },
-  "/__docusaurus/debug/content-a2b": {
+  "/kubenest-website/__docusaurus/debug/content-4dc": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---kubenest-website-docusaurus-debugb-38-196"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "__props": "__props---kubenest-website-docusaurus-debug-content-9-a-7-e75"
   },
-  "/__docusaurus/debug/globalData-c3c": {
+  "/kubenest-website/__docusaurus/debug/globalData-71b": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---kubenest-website-docusaurus-debugb-38-196"
     }
   },
-  "/__docusaurus/debug/metadata-156": {
+  "/kubenest-website/__docusaurus/debug/metadata-b30": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---kubenest-website-docusaurus-debugb-38-196"
     }
   },
-  "/__docusaurus/debug/registry-88c": {
+  "/kubenest-website/__docusaurus/debug/registry-a33": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---kubenest-website-docusaurus-debugb-38-196"
     }
   },
-  "/__docusaurus/debug/routes-000": {
+  "/kubenest-website/__docusaurus/debug/routes-4ca": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---kubenest-website-docusaurus-debugb-38-196"
     }
   },
-  "/blog-b2f": {
+  "/kubenest-website/blog-899": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---kubenest-website-blog-766-f91"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---kubenest-website-blogf-4-f-d4c"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---kubenest-website-blog-871-366"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---kubenest-website-blog-925-19d"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "__props---kubenest-website-blog-1-d-5-432"
   },
-  "/blog/archive-182": {
+  "/kubenest-website/blog/archive-709": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "__props---kubenest-website-blog-archive-3-d-1-e98"
   },
-  "/blog/authors-0b7": {
+  "/kubenest-website/blog/authors-7c2": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---kubenest-website-blog-authorsace-6f7"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "__props": "__props---kubenest-website-blog-authors-967-d45"
   },
-  "/blog/authors/all-sebastien-lorber-articles-4a1": {
+  "/kubenest-website/blog/authors/all-sebastien-lorber-articles-ac0": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---kubenest-website-blog-authorsace-6f7"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---kubenest-website-blog-766-f91"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---kubenest-website-blogf-4-f-d4c"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---kubenest-website-blog-925-19d"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "__props": "__props---kubenest-website-blog-authors-all-sebastien-lorber-articles-58-f-322"
   },
-  "/blog/authors/yangshun-a68": {
+  "/kubenest-website/blog/authors/yangshun-5a1": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---kubenest-website-blog-authorsace-6f7"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---kubenest-website-blog-766-f91"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---kubenest-website-blog-871-366"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---kubenest-website-blog-925-19d"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "__props": "__props---kubenest-website-blog-authors-yangshun-431-377"
   },
-  "/blog/first-blog-post-89a": {
+  "/kubenest-website/blog/first-blog-post-6d1": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---kubenest-website-blog-authorsace-6f7"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "content": "content---kubenest-website-blog-first-blog-poste-27-3c2"
   },
-  "/blog/long-blog-post-9ad": {
+  "/kubenest-website/blog/long-blog-post-602": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---kubenest-website-blog-authorsace-6f7"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "content": "content---kubenest-website-blog-long-blog-post-736-fca"
   },
-  "/blog/mdx-blog-post-e9f": {
+  "/kubenest-website/blog/mdx-blog-post-5bd": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---kubenest-website-blog-authorsace-6f7"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "content": "content---kubenest-website-blog-mdx-blog-post-593-a30"
   },
-  "/blog/tags-287": {
+  "/kubenest-website/blog/tags-d36": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "__props": "__props---kubenest-website-blog-tagse-3-d-a20"
   },
-  "/blog/tags/docusaurus-704": {
+  "/kubenest-website/blog/tags/docusaurus-db4": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---kubenest-website-blog-766-f91"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---kubenest-website-blogf-4-f-d4c"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---kubenest-website-blog-871-366"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---kubenest-website-blog-925-19d"
       }
     ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
+    "__props": "__props---kubenest-website-blog-tags-docusauruse-37-030"
   },
-  "/blog/tags/facebook-858": {
+  "/kubenest-website/blog/tags/facebook-e1e": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---kubenest-website-blog-766-f91"
       }
     ],
-    "__props": "__props---blog-tags-facebooke-5-a-514"
+    "__props": "__props---kubenest-website-blog-tags-facebook-2-fc-80f"
   },
-  "/blog/tags/hello-299": {
+  "/kubenest-website/blog/tags/hello-cca": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---kubenest-website-blog-766-f91"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---kubenest-website-blog-871-366"
       }
     ],
-    "__props": "__props---blog-tags-hellof-82-2fd"
+    "__props": "__props---kubenest-website-blog-tags-hellob-1-c-4fa"
   },
-  "/blog/tags/hola-00d": {
+  "/kubenest-website/blog/tags/hola-a24": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---kubenest-website-blog-925-19d"
       }
     ],
-    "__props": "__props---blog-tags-hola-5-e-9-9a3"
+    "__props": "__props---kubenest-website-blog-tags-hola-53-d-bfb"
   },
-  "/blog/welcome-d2b": {
+  "/kubenest-website/blog/welcome-0e8": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---kubenest-website-blog-authorsace-6f7"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---kubenest-website-blog-369-c17"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "sidebar---kubenest-website-blog-814-a5b",
+    "content": "content---kubenest-website-blog-welcomed-9-f-15b"
   },
-  "/markdown-page-3d7": {
+  "/kubenest-website/markdown-page-f92": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---kubenest-website-markdown-pagea-74-8c9"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---kubenest-website-markdown-page-393-459"
   },
-  "/docs-733": {
+  "/kubenest-website/docs-f14": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "plugin---kubenest-website-docsaba-eb7"
     }
   },
-  "/docs-7e6": {
+  "/kubenest-website/docs-fea": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__props": "__props---kubenest-website-docsfa-6-095"
   },
-  "/docs-ba6": {
+  "/kubenest-website/docs-f61": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/tutorial---basics-20e": {
+  "/kubenest-website/docs/category/tutorial---basics-9f5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
+    "__props": "__props---kubenest-website-docs-category-tutorial-basics-3-c-1-325"
   },
-  "/docs/category/tutorial---extras-9ad": {
+  "/kubenest-website/docs/category/tutorial---extras-4ef": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+    "__props": "__props---kubenest-website-docs-category-tutorial-extrasb-02-4f0"
   },
-  "/docs/intro-61d": {
+  "/kubenest-website/docs/intro-dfd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---kubenest-website-docs-intro-0-e-3-3ba"
   },
-  "/docs/tutorial-basics/congratulations-458": {
+  "/kubenest-website/docs/tutorial-basics/congratulations-1fe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---kubenest-website-docs-tutorial-basics-congratulations-822-8ea"
   },
-  "/docs/tutorial-basics/create-a-blog-post-108": {
+  "/kubenest-website/docs/tutorial-basics/create-a-blog-post-93b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---kubenest-website-docs-tutorial-basics-create-a-blog-post-533-291"
   },
-  "/docs/tutorial-basics/create-a-document-8fc": {
+  "/kubenest-website/docs/tutorial-basics/create-a-document-655": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+    "content": "content---kubenest-website-docs-tutorial-basics-create-a-document-1-e-4-5b0"
   },
-  "/docs/tutorial-basics/create-a-page-951": {
+  "/kubenest-website/docs/tutorial-basics/create-a-page-37a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+    "content": "content---kubenest-website-docs-tutorial-basics-create-a-page-5-c-8-977"
   },
-  "/docs/tutorial-basics/deploy-your-site-4f5": {
+  "/kubenest-website/docs/tutorial-basics/deploy-your-site-bf9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+    "content": "content---kubenest-website-docs-tutorial-basics-deploy-your-sitef-55-504"
   },
-  "/docs/tutorial-basics/markdown-features-b05": {
+  "/kubenest-website/docs/tutorial-basics/markdown-features-a36": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+    "content": "content---kubenest-website-docs-tutorial-basics-markdown-features-18-c-193"
   },
-  "/docs/tutorial-extras/manage-docs-versions-978": {
+  "/kubenest-website/docs/tutorial-extras/manage-docs-versions-d57": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "content": "content---kubenest-website-docs-tutorial-extras-manage-docs-versionsdff-417"
   },
-  "/docs/tutorial-extras/translate-your-site-f9a": {
+  "/kubenest-website/docs/tutorial-extras/translate-your-site-629": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---kubenest-website-docs-tutorial-extras-translate-your-sitee-44-310"
   },
-  "/-2e1": {
+  "/kubenest-website/-b71": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---kubenest-website-markdown-pagea-74-8c9"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---kubenest-website-5-e-9-b9e"
   }
 }
